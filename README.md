@@ -6,9 +6,9 @@ This GitHub repository, named 'ML-Algorithms-Pipeline,' is a comprehensive colle
 ## Repository Structure
 * Folders:
 
-1. datasets: Contains datasets generated as part of the three main files.
-2. Models: Includes machine learning models created in conjunction with the three files.
-3. Extra Resources: Provides supplementary materials to enhance understanding and support the analysis within the repository.
+  1. datasets: Contains datasets generated as part of the three main files.
+  2. Models: Includes machine learning models created in conjunction with the three files.
+  3. Extra Resources: Provides supplementary materials to enhance understanding and support the analysis within the repository.
 
 * Files:
 

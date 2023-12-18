@@ -22,6 +22,8 @@ This GitHub repository, named 'ML-Algorithms-Pipeline,' is a comprehensive colle
       * Feature engineering to create new features, transform existing ones, and encode categorical variables.
       * Data scaling to standardize or normalize numerical features.
       * Data splitting into training and testing sets for effective model performance evaluation.
+     
+
   2. Supervised_and_Unsupervised_Modelling_and_Evaluation.ipynb:
   
     * Objective: This notebook covers supervised and unsupervised machine learning problems, including classification, regression, clustering, and association. It also demonstrates the use of Sklearn's Pipeline method and compares Joblib and pickle for model saving.
@@ -35,6 +37,8 @@ This GitHub repository, named 'ML-Algorithms-Pipeline,' is a comprehensive colle
         * Clustering methods such as K-Means, Hierarchical Clustering, and DBSCAN.
         * Association using the Apriori Algorithm.
       * Saving Models using Pickle and Joblib.
+     
+    
   3. Canadian_Immigration_Data_Semi_Supervised_Learning.ipynb:
   
     * Objective: This notebook focuses on a semi-supervised learning project using regression models to substitute missing data. It incorporates unsupervised learning techniques for clustering Canadian immigration data.

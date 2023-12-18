@@ -6,16 +6,16 @@ This GitHub repository, named 'ML-Algorithms-Pipeline,' is a comprehensive colle
 ## Repository Structure
 * Folders:
 
-  1. datasets: Contains datasets generated as part of the three main files.
-  2. Models: Includes machine learning models created in conjunction with the three files.
-  3. Extra Resources: Provides supplementary materials to enhance understanding and support the analysis within the repository.
+  1. **datasets:** Contains datasets used and generated as part of the three main files.
+  2. **Models:** Includes machine learning models created in conjunction with the three files.
+  3. **Extra Resources:** Provides supplementary materials to enhance understanding and support the analysis within the repository.
 
-* Files:
+* **Files:**
 
-  1. Data_Preprocessing.ipynb:
+  1. **Data_Preprocessing.ipynb:**
   
-    * Objective: This Jupyter notebook focuses on data preprocessing using Python 3 within Google Colab. It employs various libraries, including NumPy, Pandas, Sklearn, matplotlib, and seaborn.
-    * Key Steps:
+    * **Objective:** This Jupyter notebook focuses on data preprocessing using Python 3 within Google Colab. It employs various libraries, including NumPy, Pandas, Sklearn, matplotlib, and seaborn.
+    * **Key Steps:**
       * Data loading from diverse sources (CSV, Excel, databases, web APIs) using Pandas.
       * Exploratory Data Analysis (EDA) for initial dataset understanding through summary statistics and visualizations.
       * Handling missing data, employing techniques to fill in values.
@@ -24,11 +24,11 @@ This GitHub repository, named 'ML-Algorithms-Pipeline,' is a comprehensive colle
       * Data splitting into training and testing sets for effective model performance evaluation.
      
 
-  2. Supervised_and_Unsupervised_Modelling_and_Evaluation.ipynb:
+  2. **Supervised_and_Unsupervised_Modelling_and_Evaluation.ipynb:**
   
-    * Objective: This notebook covers supervised and unsupervised machine learning problems, including classification, regression, clustering, and association. It also demonstrates the use of Sklearn's Pipeline method and compares Joblib and pickle for model saving.
-    * Key Sections:
-      * Introduction
+    * **Objective:** This notebook covers supervised and unsupervised machine learning problems, including classification, regression, clustering, and association. It also demonstrates the use of Sklearn's Pipeline method and compares Joblib and pickle for model saving.
+    * **Key Sections:**
+      * **Introduction**
       * Supervised Learning:
         * Classification using various algorithms (Logistic Regression, Decision Tree, Random Forest, SVM, K-Nearest Neighbours, Naive Bayes).
         * Regression with algorithms like Linear Regression, Support Vector Regressor, and Random Forest Regressor.
@@ -39,10 +39,10 @@ This GitHub repository, named 'ML-Algorithms-Pipeline,' is a comprehensive colle
       * Saving Models using Pickle and Joblib.
      
     
-  3. Canadian_Immigration_Data_Semi_Supervised_Learning.ipynb:
+  3. **Canadian_Immigration_Data_Semi_Supervised_Learning.ipynb:**
   
-    * Objective: This notebook focuses on a semi-supervised learning project using regression models to substitute missing data. It incorporates unsupervised learning techniques for clustering Canadian immigration data.
-    * Additional Components:
+    * **Objective:** This notebook focuses on a semi-supervised learning project using regression models to substitute missing data. It incorporates unsupervised learning techniques for clustering Canadian immigration data.
+    * **Additional Components:**
       * Flowchart for implementation provided in 'Extra Resources' folder.
       * Visualizations made in Tableau.
       * Poster created using PowerPoint presentation.

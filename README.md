@@ -3,6 +3,8 @@
 ## Overview
 This GitHub repository, named 'ML-Algorithms-Pipeline,' is a comprehensive collection of Python scripts and Jupyter notebooks designed for Machine Learning (ML) practitioners. The repository encompasses three main files, each addressing specific aspects of the ML workflow, along with additional folders containing datasets, models, and extra resources.
 
+Feel free to use this link to get access to datasets and models: https://drive.google.com/drive/folders/1bUMab0L01weRTZJo8s5OyTBxH8S9gnS1?usp=sharing
+
 ## Repository Structure
 * Folders:
 

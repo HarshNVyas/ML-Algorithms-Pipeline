@@ -1,20 +1,21 @@
 # ML-Algorithms-Pipeline
 
-Overview
+## Overview
 This GitHub repository, named 'ML-Algorithms-Pipeline,' is a comprehensive collection of Python scripts and Jupyter notebooks designed for Machine Learning (ML) practitioners. The repository encompasses three main files, each addressing specific aspects of the ML workflow, along with additional folders containing datasets, models, and extra resources.
 
-Repository Structure
-Folders:
+## Repository Structure
+* Folders:
 
-datasets: Contains datasets generated as part of the three main files.
-Models: Includes machine learning models created in conjunction with the three files.
-Extra Resources: Provides supplementary materials to enhance understanding and support the analysis within the repository.
-Files:
+1. datasets: Contains datasets generated as part of the three main files.
+2. Models: Includes machine learning models created in conjunction with the three files.
+3. Extra Resources: Provides supplementary materials to enhance understanding and support the analysis within the repository.
 
-Data_Preprocessing.ipynb:
+* Files:
 
-Objective: This Jupyter notebook focuses on data preprocessing using Python 3 within Google Colab. It employs various libraries, including NumPy, Pandas, Sklearn, matplotlib, and seaborn.
-Key Steps:
+1. Data_Preprocessing.ipynb:
+
+* Objective: This Jupyter notebook focuses on data preprocessing using Python 3 within Google Colab. It employs various libraries, including NumPy, Pandas, Sklearn, matplotlib, and seaborn.
+* Key Steps:
 Data loading from diverse sources (CSV, Excel, databases, web APIs) using Pandas.
 Exploratory Data Analysis (EDA) for initial dataset understanding through summary statistics and visualizations.
 Handling missing data, employing techniques to fill in values.

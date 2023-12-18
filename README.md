@@ -24,8 +24,8 @@ This GitHub repository, named 'ML-Algorithms-Pipeline,' is a comprehensive colle
       * Data splitting into training and testing sets for effective model performance evaluation.
   2. Supervised_and_Unsupervised_Modelling_and_Evaluation.ipynb:
   
-    *Objective: This notebook covers supervised and unsupervised machine learning problems, including classification, regression, clustering, and association. It also demonstrates the use of Sklearn's Pipeline method and compares Joblib and pickle for model saving.
-    *Key Sections:
+    * Objective: This notebook covers supervised and unsupervised machine learning problems, including classification, regression, clustering, and association. It also demonstrates the use of Sklearn's Pipeline method and compares Joblib and pickle for model saving.
+    * Key Sections:
       * Introduction
       * Supervised Learning:
         * Classification using various algorithms (Logistic Regression, Decision Tree, Random Forest, SVM, K-Nearest Neighbours, Naive Bayes).
